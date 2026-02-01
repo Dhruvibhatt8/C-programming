@@ -1,0 +1,3 @@
+rupees=float(input("Enter the the rupees converting to dollars"))
+dollars=rupees//48
+print("the conversion of rupees to dollars is:",dollars)
