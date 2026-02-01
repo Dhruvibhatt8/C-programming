@@ -1,0 +1,3 @@
+minutes=float(input("Enter the the minutes converting to hours"))
+hours=minutes//60
+print("the conversion of minutes to hours is:",hours)
